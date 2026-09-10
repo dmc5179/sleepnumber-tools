@@ -1,7 +1,5 @@
-upstream
 example.txt
 example.py
-sleepyq-mine
 credentials.env
 data/
 __pycache__/
